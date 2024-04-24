@@ -2,7 +2,8 @@
 **Gerenciamento de Entidades em Jogos**: Muitos motores de jogos implementam estruturas semelhantes para gerenciar entidades no jogo. Cada entidade pode ter um ID único e precisam ser adicionadas e removidas dinamicamente.
 
 **Sistemas de Física e Simulação**: Em simulações físicas complexas, é comum precisar gerenciar um grande número de objetos que interagem entre si. Uma estrutura de dados eficiente é essencial para lidar com a adição, remoção e consulta desses objetos.
-Sistemas de Gerenciamento de Memória
+Sistemas de Gerenciamento de Memória.
+
 **Sistemas Embarcados e de Baixo Nível**: Em sistemas com recursos limitados de memória, é crucial ter estruturas de dados que otimizem o uso da memória disponível.
 Gerenciamento de Memória Personalizado: Em certos sistemas ou ambientes de programação, pode ser necessário implementar estruturas de dados personalizadas para lidar com o gerenciamento de memória de maneira específica.
 
