@@ -5,7 +5,8 @@
 Sistemas de Gerenciamento de Memória.
 
 **Sistemas Embarcados e de Baixo Nível**: Em sistemas com recursos limitados de memória, é crucial ter estruturas de dados que otimizem o uso da memória disponível.
-Gerenciamento de Memória Personalizado: Em certos sistemas ou ambientes de programação, pode ser necessário implementar estruturas de dados personalizadas para lidar com o gerenciamento de memória de maneira específica.
+
+**Gerenciamento de Memória Personalizado**: Em certos sistemas ou ambientes de programação, pode ser necessário implementar estruturas de dados personalizadas para lidar com o gerenciamento de memória de maneira específica.
 
 
 ### Documentação do SparseDenseSet
