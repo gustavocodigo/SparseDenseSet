@@ -1,3 +1,12 @@
+## Onde é usado?
+**Gerenciamento de Entidades em Jogos**: Muitos motores de jogos implementam estruturas semelhantes para gerenciar entidades no jogo. Cada entidade pode ter um ID único e precisam ser adicionadas e removidas dinamicamente.
+
+**Sistemas de Física e Simulação**: Em simulações físicas complexas, é comum precisar gerenciar um grande número de objetos que interagem entre si. Uma estrutura de dados eficiente é essencial para lidar com a adição, remoção e consulta desses objetos.
+Sistemas de Gerenciamento de Memória
+**Sistemas Embarcados e de Baixo Nível**: Em sistemas com recursos limitados de memória, é crucial ter estruturas de dados que otimizem o uso da memória disponível.
+Gerenciamento de Memória Personalizado: Em certos sistemas ou ambientes de programação, pode ser necessário implementar estruturas de dados personalizadas para lidar com o gerenciamento de memória de maneira específica.
+
+
 ### Documentação do SparseDenseSet
 
 O SparseDenseSet é uma estrutura de dados que combina características de conjuntos esparsos e densos, proporcionando eficiência de memória e acesso rápido a objetos por meio de IDs únicos. Esta documentação detalha as principais características, métodos e uso recomendado do SparseDenseSet.
@@ -89,3 +98,5 @@ if (entitySet.remove(id1)) {
 ```
 
 Neste exemplo, uma entidade Entity é inserida no SparseDenseSet, verificada, recuperada e removida. Certifique-se de substituir Entity pelo tipo de objeto que deseja armazenar no SparseDenseSet.
+
+
